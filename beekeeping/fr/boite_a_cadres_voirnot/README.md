@@ -2,22 +2,22 @@ Boite à cadres format VOIRNOT
 =============================
 <i>Image boite à cadre dans toit avec cadres</i>
 
-###Introduction
+### Introduction
 L'objectif de ce guide est de vous aider à construire une petite boite à cadres au format Voirnot pour stocker et transporter vos cadres pendant vos visites au rucher.<br>
 
-###Liste des fournitures
+### Liste des fournitures
 + Un panneau multiplex épaisseur 5mm ou 8mm dimensions 122x61cm.<i>Dans ce guide, un panneau d'épaisseur (e) 8mm a été utilisé.</i>
 + Une latte en bois brut 22x48mm longueur 80cm (version sans poignées) ou 120cm (version avec poignées).
 + Vis 3.5x25mm ~25 vis. <i>Torx 15 dans ce guide.</i>
 
-###Liste du matériel
+### Liste du matériel
 + Visseuse
 + Serre-joint (ou pince de serrage)
 + Scie sauteuse ou scie circulaire ou scie à onglet ou scie sur table.
 + Dremel ou défonceuse.
 + Matériel de mesure et de tracé (mètre, crayon, équerre, ...)
 
-###Liste des découpes
+### Liste des découpes
 <i>Plan des découpes</i>
 1. Le panneau initial (122x61cm) est d'abord découpé dans le sens de la longueur à une largeur de 43cm. Le morceau B, de 122xRcm est mis de côté. <i>Dans ce guide, R vaut ~17.6cm</i>
 2. Le panneau restant (122x43cm) est ensuite coupé deux fois dans le sens de la largeur à 39,5cm. Deux morceau A de 43x39,5cm sont obtenus et un morceau C de 43x~43cm suivant le trait de scie. <i> Dans ce guide, le panneau C obtenu fait 43x42.5cm</i>
@@ -28,11 +28,11 @@ L'objectif de ce guide est de vous aider à construire une petite boite à cadre
 7. Le panneau C peut être mis de côté, il ne sera pas utilisé. Sa dimension de 43x~43cm permet de l'utiliser comme couvre-cadres, le transformer en chasse-abeilles, ... .
 <i>Image des panneaux découpés</i>
 
-###Dépouille pour poser les cadres
+### Dépouille pour poser les cadres
 <i>Plan latte avec dépouilles</i>
 <i>Image latte avec cadre</i>
 
-###Assemblage
+### Assemblage
 1. Sur les deux panneaux B2, fixer une latte affleurant le bord du panneau par la largeur pour former un L.
 <i>Image L</i>
 2. Sur les deux panneaux B2, fixer une latte affleurant le bord du panneau par la longueur. Cette latte va servir pour poser les cadres, il s'agit maintenant du haut de la boite.
