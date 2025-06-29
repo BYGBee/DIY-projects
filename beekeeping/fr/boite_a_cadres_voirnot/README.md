@@ -4,11 +4,12 @@ Boite à cadres format VOIRNOT
 
 ### Introduction
 L'objectif de ce guide est de vous aider à construire une petite boite à cadres au format Voirnot pour stocker et transporter vos cadres pendant vos visites au rucher.<br>
+Cette boite à cadres est relativement grande afin de pouvoir se glisser dans un toit Voirnot pour la stabiliser et éviter de faire basculer la boite à cadres suite à un mauvais mouvement.
 
 ### Liste des fournitures
-+ Un panneau multiplex épaisseur 5mm ou 8mm dimensions 122x61cm.<i>Dans ce guide, un panneau d'épaisseur (e) 8mm a été utilisé.</i>
++ Un panneau multiplex épaisseur 5mm ou 8mm dimensions 122x61cm.<br><i>Dans ce guide, un panneau d'épaisseur (e) 8mm a été utilisé.</i>
 + Une latte en bois brut 22x48mm longueur 80cm (version sans poignées) ou 120cm (version avec poignées).
-+ Vis 3.5x25mm ~25 vis. <i>Torx 15 dans ce guide.</i>
++ Vis 3.5x25mm ~25 vis. <br><i>Torx 15 dans ce guide.</i>
 
 ### Liste du matériel
 + Visseuse
@@ -19,14 +20,14 @@ L'objectif de ce guide est de vous aider à construire une petite boite à cadre
 
 ### Liste des découpes
 <i>Plan des découpes</i>
-1. Le panneau initial (122x61cm) est d'abord découpé dans le sens de la longueur à une largeur de 43cm. Le morceau B, de 122xRcm est mis de côté. <i>Dans ce guide, R vaut ~17.6cm</i>
-2. Le panneau restant (122x43cm) est ensuite coupé deux fois dans le sens de la largeur à 39,5cm. Deux morceau A de 43x39,5cm sont obtenus et un morceau C de 43x~43cm suivant le trait de scie. <i> Dans ce guide, le panneau C obtenu fait 43x42.5cm</i>
+1. Le panneau initial (122x61cm) est d'abord découpé dans le sens de la longueur à une largeur de 43cm. Le morceau B, de 122xRcm est mis de côté.<br> <i>Dans ce guide, R vaut ~17.6cm</i>
+2. Le panneau restant (122x43cm) est ensuite coupé deux fois dans le sens de la largeur à 39,5cm. Deux morceau A de 43x39,5cm sont obtenus et un morceau C de 43x~43cm suivant le trait de scie.<br> <i> Dans ce guide, le panneau C obtenu fait 43x42.5cm</i>
 3. Le panneau B est recoupé à une longueur de 43cm. Un morceau B1 de 43xRcm est obtenu.
 4. Le reste du panneau B est coupé en deux longueurs de 39.5-e cm (39.5-0.8 = 38.7cm). Deux panneaux B2 sont obtenus ainsi qu'une petite chute de quelques millimètres.
-5. La latte est coupée en 4 (sans poignées) ou 6 (avec poignées) morceaux de Rcm de long. <i> 6 morceaux de 17.6cm de long dans le cas de ce guide. </i>
+5. La latte est coupée en 4 (sans poignées) ou 6 (avec poignées) morceaux de Rcm de long.<br> <i> 6 morceaux de 17.6cm de long dans le cas de ce guide. </i>
 6. Les panneaux A seront les "grands côtés" de la boite, le panneau B1 est le fond, les panneaux B2 sont les "petits côtés" de la boite.
 7. Le panneau C peut être mis de côté, il ne sera pas utilisé. Sa dimension de 43x~43cm permet de l'utiliser comme couvre-cadres, le transformer en chasse-abeilles, ... .
-<i>Image des panneaux découpés</i>
+<br><i>Image des panneaux découpés</i>
 
 ### Dépouille pour poser les cadres
 <i>Plan latte avec dépouilles</i>
