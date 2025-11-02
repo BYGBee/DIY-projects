@@ -28,7 +28,7 @@ Cette boite à cadres est relativement grande afin de pouvoir se glisser dans un
 6. Les panneaux A seront les "grands côtés" de la boite, le panneau B1 est le fond, les panneaux B2 sont les "petits côtés" de la boite.
 7. Le panneau C peut être mis de côté, il ne sera pas utilisé. Sa dimension de 43x~43cm permet de l'utiliser comme couvre-cadres, le transformer en chasse-abeilles, ... .
 <br>
-![Image des panneaux découpés](/../../images/BAC_Voirnot/20250628_104131.jpg)
+![Image des panneaux découpés](../../images/BAC_Voirnot/20250628_104131.jpg)
 
 
 ### Dépouille pour poser les cadres
