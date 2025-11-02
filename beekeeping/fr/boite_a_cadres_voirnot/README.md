@@ -9,7 +9,8 @@ Cette boite à cadres est relativement grande afin de pouvoir se glisser dans un
 ### Liste des fournitures
 + Un panneau multiplex épaisseur 5mm ou 8mm dimensions 122x61cm.<br><i>Dans ce guide, un panneau d'épaisseur (e) 8mm a été utilisé.</i>
 + Une latte en bois brut 22x48mm longueur 80cm (version sans poignées) ou 120cm (version avec poignées).
-+ Vis 3.5x25mm ~25 vis. <br><i>Torx 15 dans ce guide.</i>
++ Vis 3.5x25mm ~25 vis.
+<i>Empreinte Torx 15 dans ce guide.</i>
 
 ### Liste du matériel
 + Visseuse
@@ -32,18 +33,17 @@ Cette boite à cadres est relativement grande afin de pouvoir se glisser dans un
 
 ### Dépouille pour poser les cadres
 <i>Plan latte avec dépouilles</i>
-<i>Image latte avec cadre</i>
+![Image cadre posé dans la boite](../../images/BAC_Voirnot/20250628_113156.jpg|width=250)
 
 ### Assemblage
 1. Sur les deux panneaux B2, fixer une latte affleurant le bord du panneau par la largeur pour former un L.
-<br> ![Image L](https://github.com/BYGBee/DIY-projects/blob/main/beekeeping/images/BAC_Voirnot/20250628_110145.jpg|width=250)
+![Image L](../../images/BAC_Voirnot/20250628_110145.jpg|width=250)
 2. Sur les deux panneaux B2, fixer une latte affleurant le bord du panneau par la longueur. Cette latte va servir pour poser les cadres, il s'agit maintenant du haut de la boite.
-<br> ![Image L+](https://github.com/BYGBee/DIY-projects/blob/main/beekeeping/images/BAC_Voirnot/20250628_110147.jpg|width=250)
+![Image L+](../../images/BAC_Voirnot/20250628_110147.jpg|width=250)
 3. Visser un panneau A sur les deux panneaux B2. Les vis retenant le panneau traversent le panneau A pour venir dans les lattes. Le panneau A va dépasser de quelques millimètres au bas des panneaux B2.
 4. Faire de même avec le panneau A restant pour fermer la boite. Ne pas visser complètement les vis du bas afin de laisser un peu de jeu pour glisser le fond.
 5. Glisser le panneau B1 entre les deux zones dépassantes des panneaux A et visser le panneau dans les deux lattes du fond.
 6. Réaliser, au dremel ou à la défonceuse, la dépouille de 1x1cm dans les deux lattes supérieures pour pouvoir poser les cadres.
-<br> ![Image cadre posé dans la boite](https://github.com/BYGBee/DIY-projects/blob/main/beekeeping/images/BAC_Voirnot/20250628_113156.jpg|width=250)
 7. Si version avec poignées: Á 5cm du bord haut de la boite, sur les panneaux B2, fixer les deux dernières lattes pour former les poignées. La vis doit pénétrer de quelques millimètres dans la latte pour venir se fixer dans le multiplex.
 8. Fini!
 <i>Photo finish</i>
