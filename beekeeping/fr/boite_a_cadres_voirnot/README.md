@@ -1,6 +1,6 @@
 Boite à cadres format VOIRNOT
 =============================
-<i>Image boite à cadre dans toit avec cadres</i>
+![Image boite à cadre dans toit avec cadres]( | width=250)
 
 ### Introduction
 L'objectif de ce guide est de vous aider à construire une petite boite à cadres au format Voirnot pour stocker et transporter vos cadres pendant vos visites au rucher.<br>
@@ -27,7 +27,8 @@ Cette boite à cadres est relativement grande afin de pouvoir se glisser dans un
 5. La latte est coupée en 4 (sans poignées) ou 6 (avec poignées) morceaux de Rcm de long.<br> <i> 6 morceaux de 17.6cm de long dans le cas de ce guide. </i>
 6. Les panneaux A seront les "grands côtés" de la boite, le panneau B1 est le fond, les panneaux B2 sont les "petits côtés" de la boite.
 7. Le panneau C peut être mis de côté, il ne sera pas utilisé. Sa dimension de 43x~43cm permet de l'utiliser comme couvre-cadres, le transformer en chasse-abeilles, ... .
-<br><i>Image des panneaux découpés</i>
+<br> ![Image des panneaux découpés](https://github.com/BYGBee/DIY-projects/blob/main/beekeeping/images/BAC_Voirnot/20250628_104131.jpg | width=250)
+
 
 ### Dépouille pour poser les cadres
 <i>Plan latte avec dépouilles</i>
@@ -35,13 +36,14 @@ Cette boite à cadres est relativement grande afin de pouvoir se glisser dans un
 
 ### Assemblage
 1. Sur les deux panneaux B2, fixer une latte affleurant le bord du panneau par la largeur pour former un L.
-<i>Image L</i>
+<br> ![Image L](https://github.com/BYGBee/DIY-projects/blob/main/beekeeping/images/BAC_Voirnot/20250628_110145.jpg | width=250)
 2. Sur les deux panneaux B2, fixer une latte affleurant le bord du panneau par la longueur. Cette latte va servir pour poser les cadres, il s'agit maintenant du haut de la boite.
-<i>Image L+</i>
+<br> ![Image L+](https://github.com/BYGBee/DIY-projects/blob/main/beekeeping/images/BAC_Voirnot/20250628_110147.jpg | width=250)
 3. Visser un panneau A sur les deux panneaux B2. Les vis retenant le panneau traversent le panneau A pour venir dans les lattes. Le panneau A va dépasser de quelques millimètres au bas des panneaux B2.
 4. Faire de même avec le panneau A restant pour fermer la boite. Ne pas visser complètement les vis du bas afin de laisser un peu de jeu pour glisser le fond.
 5. Glisser le panneau B1 entre les deux zones dépassantes des panneaux A et visser le panneau dans les deux lattes du fond.
 6. Réaliser, au dremel ou à la défonceuse, la dépouille de 1x1cm dans les deux lattes supérieures pour pouvoir poser les cadres.
+<br> ![Image cadre posé dans la boite](https://github.com/BYGBee/DIY-projects/blob/main/beekeeping/images/BAC_Voirnot/20250628_113156.jpg | width=250)
 7. Si version avec poignées: Á 5cm du bord haut de la boite, sur les panneaux B2, fixer les deux dernières lattes pour former les poignées. La vis doit pénétrer de quelques millimètres dans la latte pour venir se fixer dans le multiplex.
 8. Fini!
 <i>Photo finish</i>
