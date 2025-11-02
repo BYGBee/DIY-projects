@@ -41,7 +41,7 @@ Cette boite à cadres est relativement grande afin de pouvoir se glisser dans un
 1. Sur les deux panneaux B2, fixer une latte affleurant le bord du panneau par la largeur pour former un L.
 ![Image L](../../images/BAC_Voirnot/20250628_110145.jpg)
 2. Sur les deux panneaux B2, fixer une latte affleurant le bord du panneau par la longueur. Cette latte va servir pour poser les cadres, il s'agit maintenant du haut de la boite.
-![Image L+](../../images/BAC_Voirnot/20250628_110147.jpg)
+![Image L+](../../images/BAC_Voirnot/20250628_110417.jpg)
 3. Visser un panneau A sur les deux panneaux B2. Les vis retenant le panneau traversent le panneau A pour venir dans les lattes. Le panneau A va dépasser de quelques millimètres au bas des panneaux B2.
 4. Faire de même avec le panneau A restant pour fermer la boite. Ne pas visser complètement les vis du bas afin de laisser un peu de jeu pour glisser le fond.
 5. Glisser le panneau B1 entre les deux zones dépassantes des panneaux A et visser le panneau dans les deux lattes du fond.
