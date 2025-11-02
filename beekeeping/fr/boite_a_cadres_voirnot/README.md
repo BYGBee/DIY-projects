@@ -27,7 +27,8 @@ Cette boite à cadres est relativement grande afin de pouvoir se glisser dans un
 5. La latte est coupée en 4 (sans poignées) ou 6 (avec poignées) morceaux de Rcm de long.<br> <i> 6 morceaux de 17.6cm de long dans le cas de ce guide. </i>
 6. Les panneaux A seront les "grands côtés" de la boite, le panneau B1 est le fond, les panneaux B2 sont les "petits côtés" de la boite.
 7. Le panneau C peut être mis de côté, il ne sera pas utilisé. Sa dimension de 43x~43cm permet de l'utiliser comme couvre-cadres, le transformer en chasse-abeilles, ... .
-<br> ![Image des panneaux découpés](/../../images/BAC_Voirnot/20250628_104131.jpg)
+<br>
+![Image des panneaux découpés](/../../images/BAC_Voirnot/20250628_104131.jpg)
 
 
 ### Dépouille pour poser les cadres
