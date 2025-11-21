@@ -33,10 +33,6 @@ Cette boite à cadres est relativement grande afin de pouvoir se glisser dans un
 ![Image des panneaux découpés](../../images/BAC_Voirnot/20250628_104131.jpg)
 
 
-### Dépouille pour poser les cadres
-<i>Plan latte avec dépouilles</i>
-![Image cadre posé dans la boite](../../images/BAC_Voirnot/20250628_113156.jpg)
-
 ### Assemblage
 1. Sur les deux panneaux B2, fixer une latte affleurant le bord du panneau par la largeur pour former un L.
 ![Image L](../../images/BAC_Voirnot/20250628_110145.jpg)
@@ -49,6 +45,6 @@ Cette boite à cadres est relativement grande afin de pouvoir se glisser dans un
 5. Glisser le panneau B1 entre les deux zones dépassantes des panneaux A et visser le panneau dans les deux lattes du fond.
 6. Réaliser, au dremel ou à la défonceuse, la dépouille de 1x1cm dans les deux lattes supérieures pour pouvoir poser les cadres.
 ![Dépouille dans la latte](../../images/BAC_Voirnot/20250628_113120.jpg)
+![Image cadre posé dans la boite](../../images/BAC_Voirnot/20250628_113156.jpg)
 7. Si version avec poignées: Á 5cm du bord haut de la boite, sur les panneaux B2, fixer les deux dernières lattes pour former les poignées. La vis doit pénétrer de quelques millimètres dans la latte pour venir se fixer dans le multiplex.
 8. Fini!
-<i>Photo finish</i>
