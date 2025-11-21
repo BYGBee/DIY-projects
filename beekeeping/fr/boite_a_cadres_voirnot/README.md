@@ -21,7 +21,7 @@ Cette boite à cadres est relativement grande afin de pouvoir se glisser dans un
 + Matériel de mesure et de tracé (mètre, crayon, équerre, ...)
 
 ### Liste des découpes
-<i>Plan des découpes</i>
+![Plan des découpes](../../images/BAC_Voirnot/Plan_decoupes.jpg)
 1. Le panneau initial (122x61cm) est d'abord découpé dans le sens de la longueur à une largeur de 43cm. Le morceau B, de 122xRcm est mis de côté.
 <i>Dans ce guide, R vaut ~17.6cm</i>
 2. Le panneau restant (122x43cm) est ensuite coupé deux fois dans le sens de la largeur à 39,5cm. Deux morceau A de 43x39,5cm sont obtenus et un morceau C de 43x~43cm suivant le trait de scie.<br> <i> Dans ce guide, le panneau C obtenu fait 43x42.5cm</i>
