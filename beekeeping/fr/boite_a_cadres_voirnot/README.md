@@ -1,6 +1,6 @@
 Boite à cadres format VOIRNOT
 =============================
-![Image boite à cadre dans toit avec cadres](|width=250)
+![Image boite à cadre dans toit avec cadres](../../images/BAC_Voirnot/20250629_074634.jpg)
 
 ### Introduction
 L'objectif de ce guide est de vous aider à construire une petite boite à cadres au format Voirnot pour stocker et transporter vos cadres pendant vos visites au rucher.<br>
