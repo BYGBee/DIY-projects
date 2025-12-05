@@ -1,4 +1,4 @@
-# Arduino RV Heater Controller
+# Arduino Electric Heater Controller
 
 A simple Arduino-based heater controller for a small workshop.  
 Controls a resistive heating element via a zero-cross SSR and drives a small fan in parallel. Includes overtemperature protection and adjustable heating cycles via a potentiometer.
@@ -55,6 +55,6 @@ Controls a resistive heating element via a zero-cross SSR and drives a small fan
 ## Software
 
 - Adjust `BEHAVIOR_MODE` in the sketch.
-0 = Option A (apply change at next hour)
-1 = Option B (apply change immediately)
-2 = Option C (apply proportional change)
+- 0 = Option A (apply change at next hour)
+- 1 = Option B (apply change immediately)
+- 2 = Option C (apply proportional change)
