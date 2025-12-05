@@ -1,6 +1,6 @@
 # Arduino RV Heater Controller
 
-A simple Arduino-based heater controller for RV applications.  
+A simple Arduino-based heater controller for a small workshop.  
 Controls a resistive heating element via a zero-cross SSR and drives a small fan in parallel. Includes overtemperature protection and adjustable heating cycles via a potentiometer.
 
 ---
