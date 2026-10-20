@@ -14,7 +14,7 @@ Mes ruches sont installées à Nalinnes dans un environnement favorable à la bi
 
 ## Tarifs (année 2026)
 | Format | Prix | Note |
-|---|---|---:|
+|:---|:---:|:---|
 | Pot de 250 g | 5 € |*(sur demande)* |
 | Pot de 500 g | 9 € |
 | Pot de 1 kg  | 17 € |*(sur demande)* |
