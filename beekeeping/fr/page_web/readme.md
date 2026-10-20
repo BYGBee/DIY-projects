@@ -1,4 +1,4 @@
-![Logo Bygbee](../../images/bygbee_svg.svg)
+![Logo Bygbee](../../images/bygbee_svg.svg){width=50%}
 # BYGBee
 
 Apiculteur amateur passionné.
