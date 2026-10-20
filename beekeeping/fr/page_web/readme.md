@@ -13,11 +13,11 @@ Mes ruches sont installées à Nalinnes dans un environnement favorable à la bi
 - Miel toutes fleurs d'été
 
 ## Tarifs (année 2026)
-| Format | Prix |
-|---|---:|
-| Pot de 250 g *(sur demande)* | 5 € |
+| Format | Prix | Note |
+|---|---|---:|
+| Pot de 250 g | 5 € |*(sur demande)* |
 | Pot de 500 g | 9 € |
-| Pot de 1 kg *(sur demande)* | 17 € |
+| Pot de 1 kg  | 17 € |*(sur demande)* |
 
 ## Contact
 
